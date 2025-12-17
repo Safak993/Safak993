@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Safak993
 - 👀 I’m interested in Python Kodlama Dili
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Sadık arkadaş istiyorum okadar.
 - 📫 How to reach me Discord:mirac2_2 (yaşım biraz küçük samimiyimdir arkadaş olmak isteyenler atabilir herzaman açığım büyük küçük farketmez herkesle iyi anlaşırım)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Hergün 1 proje yapıyorum ve bundan zevk alıyorum😊
