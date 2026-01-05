@@ -7,6 +7,11 @@
 - ⚡ Fun fact: Hergün 1 proje yapıyorum ve bundan zevk alıyorum😊
 - [🎗 Instagram](https://www.instagram.com/sung_jinwoo126)
 - [🎬 YouTube Kanalım](https://www.youtube.com/@%C5%9Eafak-MareStar)
+- # 🚀 Projelerim ve Araçlarım
+
+Aşağıdaki bağlantıdan itch.io üzerinde yayınladığım tüm oyunlara ve araçlara ulaşabilirsiniz:
+
+## [ 🔥 Safak993 itch.io Games & Tools 🔥 ](https://safak993.itch.io)
 <!---
 Safak993/Safak993 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
