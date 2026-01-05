@@ -47,3 +47,27 @@ Yeni insanlarla tanışmaya ve sohbet etmeye her zaman açığım. Yaşın hiç 
 ---
 
 *“Kod yazmak sadece bir araçtır, asıl amaç bir şeyler inşa etmektir.”* 💻✨
+---
+
+## 🕹️ Öne Çıkan Projem: Python Dash Arcade
+<p align="center">
+  <a href="https://safak993.itch.io">
+    <img src="https://raw.githubusercontent.com/Safak993/Python-Arcade-Dash/main/images/gameplay.gif" width="600" alt="Oyun Önizleme" style="border-radius: 10px;" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Python & Pygame ile geliştirilen bu arcade oyununda yeteneklerini test et!</b><br>
+  🎮 <i>Sonsuz macera, artan zorluk ve yüksek skor rekabeti.</i>
+</p>
+
+<p align="center">
+  <a href="https://safak993.itch.io">
+    <img src="https://img.shields.io/badge/HEMEN_OYNA-itch.io-FF2449?style=for-the-badge&logo=itchdotio&logoColor=white" />
+  </a>
+  <a href="https://github.com/Safak993/Python-Arcade-Dash">
+    <img src="https://img.shields.io/badge/KODLARI_İNCELE-GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
