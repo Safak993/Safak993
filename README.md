@@ -48,3 +48,32 @@ Yeni insanlarla tanışmaya ve sohbet etmeye her zaman açığım. Yaşın hiç 
 
 *“Kod yazmak sadece bir araçtır, asıl amaç bir şeyler inşa etmektir.”* 💻✨
 ---
+---
+
+## 🕹️ My Featured Project: Python Calculator & Tools
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Safak993/Safak993/main/calculator_preview.gif" width="700" alt="Hesap Makinesi Önizleme" style="border-radius: 15px; border: 2px solid #ff4b1f;" />
+</p>
+
+<p align="center">
+  <b>Python & Tkinter kullanılarak geliştirilmiş, itch.io üzerinden indirilebilir bir araç!</b><br>
+  ✨ <i>Hızlı, güvenilir ve her bilgisayarda çalışabilen .exe formatında.</i>
+</p>
+
+<p align="center">
+  <a href="https://safak993.itch.io">
+    <img src="https://img.shields.io/badge/DOWNLOAD_ON-itch.io-FF2449?style=for-the-badge&logo=itchdotio&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Safak993">
+    <img src="https://img.shields.io/badge/VIEW_SOURCE-GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Main_Language-Python-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Interface-Tkinter-yellow?style=flat-square" />
+</p>
+
+---
