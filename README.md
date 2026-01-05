@@ -68,6 +68,7 @@ Yeni insanlarla tanışmaya ve sohbet etmeye her zaman açığım. Yaşın hiç 
   <a href="https://github.com/Safak993">
     <img src="https://img.shields.io/badge/VIEW_SOURCE-GitHub-black?style=for-the-badge&logo=github" />
   </a>
+  ![Snake animation](https://github.com/Safak993/Safak993/blob/output/github-contribution-grid-snake.svg)
 </p>
 
 <p align="center">
