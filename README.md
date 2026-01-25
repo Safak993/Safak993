@@ -1,5 +1,7 @@
 
+[![Matrix](https://img.shields.io/badge/ENTER-THE_MATRIX-00FF00?style=for-the-badge&logo=matrix&logoColor=black)](https://safak993.github.io/Website/)
 
+> **Not:** Yukarıdaki panele tıklayarak sisteme (Canlı Websiteme) giriş yapabilir ve Bakabilirsin! ⚡
 
 # 👋 Selam, Ben Şafak (@Safak993)
 
