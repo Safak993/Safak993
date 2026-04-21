@@ -22,7 +22,6 @@
 | **Data & Vision** | <img src="https://skillicons.dev/icons?i=pandas" height="40" /> <img src="https://skillicons.dev/icons?i=matplotlib" height="40" /> <img src="https://skillicons.dev/icons?i=numpy" height="40" /> <img src="https://skillicons.dev/icons?i=scikitlearn" height="40" /> <img src="https://skillicons.dev/icons?i=opencv" height="40" /> |
 | **Backend & Cloud**| <img src="https://skillicons.dev/icons?i=supabase" height="40" /> <img src="https://skillicons.dev/icons?i=fastapi" height="40" /> <img src="https://skillicons.dev/icons?i=flask" height="40" /> <img src="https://skillicons.dev/icons?i=postman" height="40" /> <img src="https://skillicons.dev/icons?i=sqlite" height="40" /> |
 | **Workflow** | <img src="https://skillicons.dev/icons?i=git" height="40" /> <img src="https://skillicons.dev/icons?i=github" height="40" /> <img src="https://skillicons.dev/icons?i=vscode" height="40" /> <img src="https://skillicons.dev/icons?i=apple" height="40" /> <img src="https://skillicons.dev/icons?i=linux" height="40" /> |
-
 ---
 
 ### 🛡️ CYBERSECURITY & NETWORKING LIBRARIES
