@@ -1,89 +1,80 @@
+<div align="center">
+
+# ⚡ Şafak Miraç (Safak993) ⚡
+### Senior Software Developer Candidate | Cybersecurity Enthusiast | OS Architecture 
 
 [![Matrix](https://img.shields.io/badge/ENTER-THE_MATRIX-00FF00?style=for-the-badge&logo=matrix&logoColor=black)](https://safak993.github.io/Website/)
 
-> **Not:** Yukarıdaki panele tıklayarak sisteme (Canlı Websiteme) giriş yapabilir ve Bakabilirsin! ⚡
->
-> 
-> **ImageForgePro** https://imageforgepro-six.vercel.app Güvenli kayıt sistemi ile fotoğraflarınızı şekillendirin...
-# 👋 Selam, Ben Şafak (@Safak993)
+> **Sisteme Giriş:** Yukarıdaki panele tıklayarak canlı websitemi ziyaret edebilirsin!
+> 🛠️ **Öne Çıkan:** [ImageForgePro](https://imageforgepro-six.vercel.app) - Güvenli fotoğraf işleme sistemi.
 
+<img src="https://komarev.com/ghpvc/?username=Safak993&label=PROFILE%20VIEWS&color=00FF00&style=for-the-badge" alt="Safak993" />
+
+---
+
+### 🚀 Tech Stack & Skill Set
+*Örnekteki gibi kategorize edilmiş, yüksek kaliteli ikonlar:*
+
+| **Category** | **Tools & Languages** |
+| :--- | :--- |
+| **Programming Languages** | <img src="https://skillicons.dev/icons?i=py,c,cs,cpp,js,java,asm" /> |
+| **Web Development** | <img src="https://skillicons.dev/icons?i=html,css,js,supabase" /> |
+| **Cybersecurity & OS** | <img src="https://skillicons.dev/icons?i=kali,linux,ubuntu,apple" /> |
+| **Databases & Tools** | <img src="https://skillicons.dev/icons?i=sqlite,supabase,git,github,vscode" /> |
+
+---
+
+### 🛡️ Cybersecurity & Networking
+**Siber güvenlik dünyasında aktif olarak kullandığım araçlar ve sistemler:**
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Safak993&label=Profil%20Görüntüleme&color=red&style=flat" alt="Safak993" />
+  <img src="https://img.shields.io/badge/$_PARAMIKO-EXPLOIT-00FF00?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/PWNTOOLS-PWN-C0392B?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/KALI-LINUX-blue?style=for-the-badge&logo=kali-linux" />
+  <img src="https://img.shields.io/badge/PARROT-OS-00CCFF?style=for-the-badge&logo=parrot-security" />
 </p>
 
-### 🚀 Hakkımda
-Her gün yeni bir proje geliştirerek kendimi Python dünyasında geliştiriyorum. Kod yazmayı bir araç, bir şeyler inşa etmeyi ise asıl tutkum olarak görüyorum. ✨
-
-- 🌱 Şu an aktif olarak **Python** öğreniyorum ve her gün yeni bir şeyler deniyorum.
-- 🔥 **Her gün 1 proje** bitirmek en büyük motivasyonum!
-- 💞️ Samimi, dürüst ve sadık arkadaşlar edinmeyi çok istiyorum.
-- ⚡ **Eğlenceli Bilgi:** Kod yazmak benim için bir iş değil, en büyük zevk! 😊
+- 🔍 **Networking:** Scapy ve Pyshark ile paket analizi, ARP Spoofing tespiti.
+- 🛡️ **Defense:** [Safak993 DDoS Shield](https://github.com/Safak993) projesi ile trafik analizi.
+- 💻 **OS:** Kernel mimarisi ve düşük seviyeli diller (Assembly, C) üzerine çalışmalar.
 
 ---
 
-### 🎮 Projelerim ve Araçlarım
-Geliştirdiğim oyunlara ve Tkinter ile yaptığım araçlara (Hesap makinesi gibi) buradan ulaşabilirsiniz:
-
-## [ 🔥 Safak993 itch.io Games & Tools 🔥 ](https://safak993.itch.io)
-
----
-
-### 🛠️ Kullandığım Teknolojiler
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Tkinter](https://img.shields.io/badge/Tkinter-GUI-blue?style=for-the-badge&logo=python&logoColor=white)
-![Pygame](https://img.shields.io/badge/Pygame-Gaming-green?style=for-the-badge&logo=python&logoColor=white)
-
----
-
-### 📊 GitHub İstatistiklerim
+### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Safak993&show_icons=true&theme=radical&hides_format=true" alt="Safak's Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Safak993&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Safak993&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Safak993&layout=compact&theme=tokyonight&hide=html,css" height="180em" />
 </p>
 
 ---
 
-### 📱 Bana Ulaşın
-Yeni insanlarla tanışmaya ve sohbet etmeye her zaman açığım. Yaşın hiç önemi yok, samimiyet yeterli! 👋
+### 🕹️ Featured Projects & Itch.io
+**Geliştirdiğim oyunlara ve GUI araçlarına göz atın:**
 
-- 👾 **Discord:** `mirac2_2`
-- 📸 **Instagram:** [@sung_jinwoo126](https://www.instagram.com/sung_jinwoo126)
-- 🎬 **YouTube:** [Şafak-MareStar](https://www.youtube.com/@%C5%9Eafak-MareStar)
+[<img src="https://img.shields.io/badge/VISIT-MY_ITCH.IO-FF2449?style=for-the-badge&logo=itchdotio&logoColor=white" />](https://safak993.itch.io)
+
+<details>
+  <summary>📂 <b>Hesap Makinesi & Projelerimi Gör (Tıkla)</b></summary>
+  <br>
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/Safak993/Safak993/main/calculator_preview.gif" width="600" style="border-radius: 15px; border: 2px solid #00FF00;" />
+  </p>
+</details>
 
 ---
 
-*“Kod yazmak sadece bir araçtır, asıl amaç bir şeyler inşa etmektir.”* 💻✨
----
----
-
-## 🕹️ My Featured Project: Python Calculator & Tools
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Safak993/Safak993/main/calculator_preview.gif" width="700" alt="Hesap Makinesi Önizleme" style="border-radius: 15px; border: 2px solid #ff4b1f;" />
-</p>
-
-<p align="center">
-  <b>Python & Tkinter kullanılarak geliştirilmiş, itch.io üzerinden indirilebilir bir araç!</b><br>
-  ✨ <i>Hızlı, güvenilir ve her bilgisayarda çalışabilen .exe formatında.</i>
-</p>
-
-<p align="center">
-  <a href="https://safak993.itch.io">
-    <img src="https://img.shields.io/badge/DOWNLOAD_ON-itch.io-FF2449?style=for-the-badge&logo=itchdotio&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Safak993">
-    <img src="https://img.shields.io/badge/VIEW_SOURCE-GitHub-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
-  <img src="https://img.shields.io/badge/Main_Language-Python-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Interface-Tkinter-yellow?style=flat-square" />
+### 📱 Connect with Me
+<p align="left">
+<a href="https://discord.com/users/mirac2_2"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="https://www.instagram.com/sung_jinwoo126"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.youtube.com/@Şafak-MareStar"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
 
 ---
+
 <p align="center">
   <img src="https://github.com/Safak993/Safak993/raw/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </p>
+
+<p align="center"><i>"No Vibe-coding, just logic."</i> 💻✨</p>
+
+</div>
