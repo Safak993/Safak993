@@ -6,53 +6,52 @@
 [![Matrix](https://img.shields.io/badge/ENTER-THE_MATRIX-00FF00?style=for-the-badge&logo=matrix&logoColor=black)](https://safak993.github.io/Website/)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Safak993&label=SYSTEM%20ACCESSES&color=00FF00&style=for-the-badge" alt="Safak993" />
+  <img src="https://komarev.com/ghpvc/?username=Safak993&label=SYSTEM%20ACCESSES&color=00FF00&style=for-the-badge" alt="Safak993" />
 </p>
 
 ---
 
-### 🛠️ FULL TECH STACK & ECOSYSTEM
-*4 yıllık gelişim ve 100+ GUI projesinin teknik özeti:*
+### 🛡️ SPECIALIZED TECH STACK & ECOSYSTEM (100+ Icons)
+*Örnekteki gibi kategorize edilmiş, yüksek kaliteli ikonlar:*
 
-| **Domain** | **Languages & Frameworks** |
+| **Category** | **Languages, Tools & Frameworks** |
 | :--- | :--- |
-| **Core Languages** | <img src="https://skillicons.dev/icons?i=py,c,cpp,cs,asm,java,js,lua" /> |
-| **Desktop & GUI** | <img src="https://skillicons.dev/icons?i=qt,python" /> `PySide6` `Tkinter` `CustomTkinter` `Pygame` |
-| **Cybersecurity** | <img src="https://skillicons.dev/icons?i=kali,linux,ubuntu,parrot" /> `Scapy` `Pyshark` `Nmap` `Wireshark` |
+| **Programming Languages** | <img src="https://skillicons.dev/icons?i=py,c,cs,cpp,asm,java,js,lua" /> |
+| **Desktop & GUI** | <img src="https://skillicons.dev/icons?i=qt,python,customtkinter,pygui,pygame" /> `PySide6` `Tkinter` |
+| **Cybersecurity** | <img src="https://skillicons.dev/icons?i=kali,linux,parrot,ubuntu,nmap,wireshark" /> `Scapy` `Pyshark` |
+| **Data Science & ML** | <img src="https://skillicons.dev/icons?i=pandas,matplotlib,numpy,scikitlearn,opencv" /> `Pillow` |
 | **Web & Backend** | <img src="https://skillicons.dev/icons?i=html,css,js,supabase,fastapi,flask,postman" /> |
-| **Data & ML** | <img src="https://skillicons.dev/icons?i=sqlite,supabase,pandas,matplotlib" /> `Scikit-learn` `NumPy` |
 
 ---
 
-### 🛡️ SPECIALIZED PYTHON LIBRARIES (80+ TOOLS)
-**Projelerimde aktif olarak kullandığım kütüphane ekosistemi:**
-
-#### 🌐 Networking & Cyber-Exploitation
+### 🛠️ CYBER & NETWORKING TOOLS (80+ LIBRARIES)
+**Siber güvenlik projelerinde aktif olarak kullandığım kütüphaneler:**
 <p align="left">
-  <img src="https://img.shields.io/badge/$_PARAMIKO-EXPLOIT-00FF00?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/PWNTOOLS-PWN-C0392B?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/SCAPY-SNIFF-blue?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/SOCKET-RAW-gray?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/$_PARAMIKO-EXPLOIT-00FF00?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/PWNTOOLS-PWN-C0392B?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/SCAPY-SNIFF-blue?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/SOCKET-RAW-gray?style=for-the-badge&labelColor=000000" />
 </p>
-`Requests` `AioHttp` `Urllib3` `Scapy` `Pyshark` `Paramiko` `Cryptography` `Pycryptodome` `BeautifulSoup4` `Selenium` `Scrapy` `Netifaces` `Pyserial`
 
-#### 📊 Data Science & Automation
+`Requests` `AioHttp` `Urllib3` `Cryptography` `Pycryptodome` `BeautifulSoup4` `Selenium` `Scrapy` `Netifaces` `Pyserial`
+
+---
+
+### 🎮 GAME DEV & GUI FRAMEWORKS (50+ TOOLS)
+**Oyun ve masaüstü uygulaması geliştirmede kullandığım ekosistem:**
 <p align="left">
-  <img src="https://img.shields.io/badge/SKLEARN-ML-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/MATPLOTLIB-VIZ-11557C?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/OPENCV-VISION-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/TKINTER-GUI-blue?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PYGAME-GAME-green?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PYQT-INTERFACE-00FF00?style=for-the-badge&logo=qt&logoColor=white" />
 </p>
-`Pandas` `NumPy` `Matplotlib` `Seaborn` `Scikit-Learn` `OpenCV (cv2)` `Pillow` `PyAutoGUI` `Keyboard` `Mouse` `Schedule` `Thread` `Multiprocessing` `Asyncio`
-
-#### 💻 UI & System Architecture
-`PySide6` `Tkinter` `PyQt5` `Rich` `Colorama` `Logging` `Configparser` `Subprocess` `OS` `Sys` `SQLite3` `Supabase-py` `Dotenv` `PyInstaller` `Nuitka` `FastAPI` `Pytest`
+`Rich` `Colorama` `PySide6` `Qt` `Nuitka` `PyInstaller` `CustomTkinter` `PyQt5` `Logging` `OS` `Sys` `SQLite3` `Threading` `Asyncio`
 
 ---
 
 ### 📊 ANALYTICS & SYSTEM STATUS
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Safak993&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="185em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Safak993&layout=compact&theme=tokyonight" height="185em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Safak993&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="185em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Safak993&layout=compact&theme=tokyonight" height="185em" />
 </p>
 
 ---
@@ -60,7 +59,6 @@
 ### 📂 FEATURED REPOSITORIES
 - 🦊 **FoxOs:** Kendi yazdığım işletim sistemi çekirdeği (Kernel mimarisi).
 - 🛡️ **DDoS Shield:** Scikit-learn ve Scapy tabanlı ağ savunma sistemi.
-- 🖼️ **ImageForge Pro:** Modern ve güvenli fotoğraf işleme masaüstü uygulaması.
 - 🔦 **Safak993 Nmap UI:** Terminal tabanlı, Rich kütüphanesi ile geliştirilmiş ağ tarayıcı.
 
 ---
@@ -69,11 +67,11 @@
 [<img src="https://img.shields.io/badge/DOWNLOAD-ITCH.IO_GAMES-FF2449?style=for-the-badge&logo=itchdotio&logoColor=white" />](https://safak993.itch.io)
 
 <details>
-  <summary>📸 <b>Project Screenshots (Click to Expand)</b></summary>
-  <br>
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/Safak993/Safak993/main/calculator_preview.gif" width="650" style="border-radius: 15px; border: 2px solid #00FF00;" />
-  </p>
+  <summary>📸 <b>Project Screenshots (Click to Expand)</b></summary>
+  <br>
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/Safak993/Safak993/main/calculator_preview.gif" width="650" style="border-radius: 15px; border: 2px solid #00FF00;" />
+  </p>
 </details>
 
 ---
@@ -89,7 +87,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/Safak993/Safak993/raw/output/github-contribution-grid-snake.svg" alt="Snake animation">
+  <img src="https://github.com/Safak993/Safak993/raw/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </p>
 
 <p align="center"><i>"No Vibe-coding, just pure logic and system architecture."</i> 💻✨</p>
