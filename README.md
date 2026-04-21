@@ -16,12 +16,12 @@
 
 | **Category** | **Languages & Tools** |
 | :--- | :--- |
-| **Core Languages** | <img src="https://skillicons.dev/icons?i=py,c,cpp,cs,asm,java,js,lua" /> |
-| **Cybersecurity** | <img src="https://skillicons.dev/icons?i=kali,linux,parrot,ubuntu,nmap,wireshark" /> |
-| **GUI & Desktop** | <img src="https://skillicons.dev/icons?i=qt,python,customtkinter" /> |
-| **Data & Vision** | <img src="https://skillicons.dev/icons?i=pandas,matplotlib,numpy,scikitlearn,opencv" /> |
-| **Backend & Cloud**| <img src="https://skillicons.dev/icons?i=supabase,fastapi,flask,postman,sqlite" /> |
-| **Workflow** | <img src="https://skillicons.dev/icons?i=git,github,vscode,apple,linux" /> |
+| **Core Languages** | <img src="https://skillicons.dev/icons?i=py" /> <img src="https://skillicons.dev/icons?i=c" /> <img src="https://skillicons.dev/icons?i=cpp" /> <img src="https://skillicons.dev/icons?i=cs" /> <img src="https://skillicons.dev/icons?i=asm" /> <img src="https://skillicons.dev/icons?i=java" /> <img src="https://skillicons.dev/icons?i=js" /> <img src="https://skillicons.dev/icons?i=lua" /> |
+| **Cybersecurity** | <img src="https://skillicons.dev/icons?i=kali" /> <img src="https://skillicons.dev/icons?i=linux" /> <img src="https://skillicons.dev/icons?i=parrot" /> <img src="https://skillicons.dev/icons?i=ubuntu" /> <img src="https://img.shields.io/badge/Nmap-white?style=flat-square&logo=nmap&logoColor=black" height="22"> <img src="https://img.shields.io/badge/Wireshark-white?style=flat-square&logo=wireshark&logoColor=blue" height="22"> |
+| **GUI & Desktop** | <img src="https://skillicons.dev/icons?i=qt" /> <img src="https://skillicons.dev/icons?i=py" /> <img src="https://img.shields.io/badge/CustomTkinter-blue?style=flat-square" height="22"> <img src="https://img.shields.io/badge/PySide6-green?style=flat-square&logo=qt" height="22"> |
+| **Data & Vision** | <img src="https://skillicons.dev/icons?i=pandas" /> <img src="https://skillicons.dev/icons?i=matplotlib" /> <img src="https://skillicons.dev/icons?i=numpy" /> <img src="https://skillicons.dev/icons?i=scikitlearn" /> <img src="https://skillicons.dev/icons?i=opencv" /> |
+| **Backend & Cloud**| <img src="https://skillicons.dev/icons?i=supabase" /> <img src="https://skillicons.dev/icons?i=fastapi" /> <img src="https://skillicons.dev/icons?i=flask" /> <img src="https://skillicons.dev/icons?i=postman" /> <img src="https://skillicons.dev/icons?i=sqlite" /> |
+| **Workflow** | <img src="https://skillicons.dev/icons?i=git" /> <img src="https://skillicons.dev/icons?i=github" /> <img src="https://skillicons.dev/icons?i=vscode" /> <img src="https://skillicons.dev/icons?i=apple" /> <img src="https://skillicons.dev/icons?i=linux" /> |
 
 ---
 
