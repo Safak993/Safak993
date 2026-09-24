@@ -91,7 +91,7 @@
 
 ### 📱 CONNECT WITH THE ARCHITECT
 <p align="left">
-<a href="https://discord.com/users/mirac2_2"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="https://discord.com/users/porius_12_48383"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 <a href="https://www.instagram.com/sung_jinwoo126"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://www.youtube.com/@Şafak-MareStar"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 <a href="mailto:safakmiraac@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
